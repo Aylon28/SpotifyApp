@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AFFBEAAE-8803-4B2A-BD03-CFB2513A084C"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F7FD3E3-5160-46BD-942F-9A18B1AEB183"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpotifyApp/Controllers/Core/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "372"
+            endingLineNumber = "372"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6F7FD3E3-5160-46BD-942F-9A18B1AEB183 - 24e8ccd3d164181f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Result&lt;SpotifyApp.RecommendationGenresResponse, Swift.Error&gt;) -&gt; () in SpotifyApp.HomeViewController.fetchData() -&gt; ()"
+                  moduleName = "SpotifyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aylon/XcodeProjects/Practice/SpotifyApp/SpotifyApp/Controllers/Core/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "301"
+                  endingLineNumber = "301"
+                  offsetFromSymbolStart = "719">
+               </Location>
+               <Location
+                  uuid = "6F7FD3E3-5160-46BD-942F-9A18B1AEB183 - 455ae16087ee8185"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;SpotifyApp.RecommendationsResponse, Swift.Error&gt;) -&gt; () in closure #3 (Swift.Result&lt;SpotifyApp.RecommendationGenresResponse, Swift.Error&gt;) -&gt; () in SpotifyApp.HomeViewController.fetchData() -&gt; ()"
+                  moduleName = "SpotifyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aylon/XcodeProjects/Practice/SpotifyApp/SpotifyApp/Controllers/Core/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "261"
+                  endingLineNumber = "261"
+                  offsetFromSymbolStart = "185">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "595B1F60-EE0C-47D7-A838-83AEF679037C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpotifyApp/Models/CategoriesResponse.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "Category"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7CF35673-2236-47B2-8010-8D969596CD84"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpotifyApp/Controllers/Other/Library/LibraryAlbumsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "updateUI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
