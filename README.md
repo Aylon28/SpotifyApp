@@ -29,7 +29,7 @@ Artist result shows spotify web-site.
 <img src ="https://user-images.githubusercontent.com/48117029/230071395-17dd00ce-5cbb-48a9-bbff-be8683b60439.png" width="200"/>
 
 ### Third tab "Library".
-Users albums and playlists.
+User's albums and playlists.
 
 <img src ="https://user-images.githubusercontent.com/48117029/230072411-26fcae7a-2276-4672-b3c7-2fd96c51f2d8.png" width="200"/> <img src ="https://user-images.githubusercontent.com/48117029/230072420-bed625f4-e4b3-44f8-9f04-54c20251a165.png" width="200"/>
 
