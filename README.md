@@ -1,6 +1,7 @@
 # SpotifyApp
 
 ## Demo Spotify application written using Spotify API and UIKit.
+Developed using iOS Academy course
 
 ### First tab "Browse". 
 Shows new released albums, featured playlists and recommended tracks.
